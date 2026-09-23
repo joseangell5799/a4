@@ -1,0 +1,207 @@
+{
+  "domain": "researchmentor",
+  "niche": "Doctoral Research Mentorship & Academic Thesis Pedagogy",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "researchmentor_asset_1.jpg",
+      "size_kb": 268.12,
+      "md5": "7db47bd007e3adccfdfedac2e6714e0d",
+      "description": "20170420 Beinecke Rare Book Library",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "researchmentor_asset_2.jpg",
+      "size_kb": 129.89,
+      "md5": "184d8fef1b1a1265c8fe82039d2940f8",
+      "description": "Abdul Karim Sahityavisharad Referen",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "researchmentor_asset_3.jpg",
+      "size_kb": 169.45,
+      "md5": "40ff1b67216adca3f8ab70acd7f3eb4b",
+      "description": "Administration at Chattogram Univer",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "researchmentor_asset_4.jpg",
+      "size_kb": 94.6,
+      "md5": "ef2d07a0813feabd406d9ec7541e6e80",
+      "description": "Chung Hua University Library 5F int",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "researchmentor_asset_5.jpg",
+      "size_kb": 212.81,
+      "md5": "0b0e31a197339ef3e84318821c8cf620",
+      "description": "Cornell University Interior Uris",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "researchmentor_asset_6.jpg",
+      "size_kb": 72.91,
+      "md5": "e077323a05159436a6e1ac378152db74",
+      "description": "Cornell University Interior Uris",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "researchmentor_asset_7.jpg",
+      "size_kb": 419.14,
+      "md5": "04e5ef240d9bcecab4ec1a5944932877",
+      "description": "Duke Humfrey s Library Interior 1",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "researchmentor_asset_8.jpg",
+      "size_kb": 380.01,
+      "md5": "ced1ac5ada788df25f881b28f6488a03",
+      "description": "Duke Humfrey s Library Interior 2",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "researchmentor_asset_9.jpg",
+      "size_kb": 301.59,
+      "md5": "9d1f1f268a66766b8f64c9c0992492af",
+      "description": "Graz University Library reading room",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "researchmentor_asset_10.jpg",
+      "size_kb": 263.1,
+      "md5": "8a6a97f209fd54a060dcb4f8d672ad75",
+      "description": "Harper Library interior Universit",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "researchmentor_asset_11.jpg",
+      "size_kb": 338.96,
+      "md5": "b4da6e49d3484b69eee34c9266e80569",
+      "description": "Helsinki University Library Interio",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "researchmentor_asset_12.jpg",
+      "size_kb": 226.01,
+      "md5": "e98e15662661a23e3ffcc0d4bc6df3fc",
+      "description": "Interior of University of Texas at",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "researchmentor_asset_13.jpg",
+      "size_kb": 204.67,
+      "md5": "9bcaefc0266a7dd75c4f2a241a243bee",
+      "description": "Interior of University of Texas at",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "researchmentor_asset_14.jpg",
+      "size_kb": 226.59,
+      "md5": "02e769c90974b27ff5df9141bcb22ca2",
+      "description": "Leiden University Library interiors",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "researchmentor_asset_15.jpg",
+      "size_kb": 215.36,
+      "md5": "1eb6cb3d48ec32e888d1a0b88eaf1e20",
+      "description": "Leiden University Library interiors",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "researchmentor_asset_16.jpg",
+      "size_kb": 209.76,
+      "md5": "83f9f789b03c2a34c34811185bd1c630",
+      "description": "Library interior UHPCSNP 11923",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "researchmentor_asset_17.jpg",
+      "size_kb": 144.44,
+      "md5": "1fb8606ec99b69ab17b08a222e79a33b",
+      "description": "Library interior of CU",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "researchmentor_asset_18.jpg",
+      "size_kb": 156.34,
+      "md5": "ffa21946685a96ec1bc7a7210480ffa8",
+      "description": "McLaughlin Library University of G",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "researchmentor_asset_19.jpg",
+      "size_kb": 142.92,
+      "md5": "70c51a98c9f1fbde40d013ed6ceebdfb",
+      "description": "Pegasus Library Interior Oulu 20050",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "researchmentor_asset_20.jpg",
+      "size_kb": 240.64,
+      "md5": "371a574a8a5ca492bc23b7076deed420",
+      "description": "Pegasus Library Interior Oulu 20241",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://researchmentor.com/sitemap.xml",
+    "robots": "https://researchmentor.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
